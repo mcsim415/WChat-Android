@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/drawable/circle.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/drawable/ic_client_black_24dp.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/drawable/ic_server_black_24dp.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/drawable/incoming_chat.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/drawable/outgoing_chat.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/drawable/radius.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/drawable/rounded_rectangle_green.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/drawable/rounded_rectangle_orange.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/layout/activity_main.xml" value="0.2826086956521739" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/layout/activity_message_list.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/layout/fragment_chat.xml" value="0.33" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/layout/fragment_client.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/layout/fragment_home.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/layout/fragment_server.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/layout/fragment_wait.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/layout/item_message_received.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/layout/item_message_sent.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/layout/outgoing_chat.xml" value="0.2390625" />
+        <entry key="..\:/Users/world415/AndroidStudioProjects/WChat/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

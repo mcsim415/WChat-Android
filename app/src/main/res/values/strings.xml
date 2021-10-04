@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WChat</string>
+    <string name="title_home">Home</string>
+    <string name="title_server">Server</string>
+    <string name="title_client">Client</string>
+    <string name="title_chat">Chat</string>
+    <string name="main_explain1">WChat is perfectly E2EE(End to End Encryption) chatting app.</string>
+    <string name="main_explain2">And it\'s open-source app!</string>
+    <string name="main_explain3">You can also see this app\'s source at <a target="_blank" href="https://github.com">here</a></string>
+    <string name="ip_connect">Please enter the IP of the server to connect to:</string>
+    <string name="port_connect">Please enter the port to wait for the connection:</string>
+    <string name="server_port_hint">Server Port</string>
+    <string name="client_ip_hint">Target\'s Ip</string>
+    <string name="client_port_hint">Target\'s Port</string>
+    <string name="ok">OK</string>
+    <string name="image">Image</string>
+    <string name="send">SEND</string>
+    <string name="enter_message">Enter message</string>
+    <string name="wait">Loading …</string>
+</resources>
